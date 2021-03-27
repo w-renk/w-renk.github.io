@@ -1,8 +1,4 @@
+$header-bg-color: #808080 !default;
+$header-bg-color-secondary: #303030 !default;
 
 @import "{{ site.theme }}";
-
-.page-header {
-    color:  rgba(120, 120, 120, 1);
-    background-color:  rgba(120, 120, 120, 1);
-    background-image: linear-gradient(120deg, rgba(40, 40, 40, 1),  rgba(120, 120, 120, 1));
-}
