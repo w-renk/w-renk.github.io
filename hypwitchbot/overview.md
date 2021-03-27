@@ -7,7 +7,7 @@ HypWitchBot lives in the chat for HyperionWitch's Twitch stream. It responds to 
 ### Command format
 All commands must be preceded by an exclamation point (!).
 
-Extra arguments neet to be provided for some commands; e.g., `!select PET_NAME` takes one argument, the name of one of your pets. If I wanted to select my pet named Charles, I would run the command `!select Charles`.
+Extra arguments need to be provided for some commands; e.g., `!select PET_NAME` takes one argument, the name of one of your pets. If I wanted to select my pet named Charles, I would run the command `!select Charles`.
 
 Arguments that are inside square braces ([ ]) are optional; e.g., in `!give ITEM_NAME [ PET_NAME ]`, *PET_NAME* is optional and the command will still run if it isn't present.
 
