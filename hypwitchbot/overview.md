@@ -1,15 +1,19 @@
-# test
+# HypWitchBot
 
-## test
+HypWitchBot lives in the chat for HyperionWitch's Twitch stream. It responds to certain words said in chat and provides a fun little game for viewers to play with certain perks that can be purchased with channel points (not yet implemented).
 
-### test
+## Non-Exhaustive List of Commands
 
-this is a really long line of text that will hopefully force the page wider because i'm losing my patience with css for this and would rather it just render text the way i want
+### !help
+Responds with a short description and a url to this page.
 
+### !hunt
+Prints a fun message in chat
 
+## The Game
 
+> Which you unfortunately just lost.
 
-## test
+**None of this has actually been implemented yet. This is only a tentative overview.**
 
-# test
-
+Any viewer can play, there is nothing you need to do to start playing beyond purchasing a pet with channel points. Once purchased
