@@ -1,7 +1,7 @@
 @import "{{ site.theme }}";
 
 .inner {
-  max-width: 1000px;
+  width: 1000px;
 }
 
 nav {
@@ -33,9 +33,7 @@ nav {
           color: #333;
         }
 
-        + .tag-h2 {
-
-        }
+        
       }
 
       &.tag-h2 {
