@@ -25,13 +25,16 @@ Spend some channel points and get a pet! The first time you do this, HypWitchBot
 ### !pets
 HypWitchBot will respond with a list of pets you own.
 
+### !active
+Tells you which of your pets is your active pet.
+
+### !select *PET_NAME*
+Switches your active pet to the one named *PET_NAME*.
+
 #### **The following gameplay related commands have not been implemented yet**
 
 ### !delete
 HypWitchBot will delete your game progress. It will ask you if you are sure you want to proceed and give you a message you will need to respond with. Your progress can not be restored and your channel points can not be refunded. If you want to start playing again, you will need to spend channel points to purchase a new pet.
-
-### !select *PET_NAME*
-Switches your active pet to the one named *PET_NAME*.
 
 ### !stats *PET_NAME*
 HypWitchBot lists the stats for the specified pet.
